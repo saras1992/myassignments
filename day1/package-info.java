@@ -1,7 +1,1 @@
-/**
- * 
- */
-/**
- * 
- */
-package week1.day1;
+package week2.day1;
